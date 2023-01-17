@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1 [WORLD CUP]" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="Sports",Fox Sports 1 [WORLD CUP]
-http://watchindia.net:8880/live/dharmend/PTukavDWzh/2421.ts
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1 [TELEGRAM]" tvg-logo="https://i.postimg.cc/CLPkKBmR/image-search-1673943247952.jpg" group-title="Sports",SEEU TV [TELEGRAM]
+https://t.me/seeutv
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="Sports 18 1 HD 1 [WORLD CUP]" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sports",Sports 18 1 HD 1 [WORLD CUP]
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2405.ts
 #EXTINF:-1 tvg-id="sports18.in" tvg-name="Sports 18 1 HD 2 [WORLD CUP]" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sports",Sports 18 1 HD 2 [WORLD CUP]
