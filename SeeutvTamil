@@ -102,6 +102,8 @@ http://watchindia.net:8880/live/dharmend/PTukavDWzh/858.ts
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2146.ts
 #EXTINF:-1 tvg-id="zee.tamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="Tamil",Zee Tamil
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/887.ts
+#EXTINF:-1 tvg-id="sky.sports.premier.league.gb" tvg-name="Star sports Tamil " tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="Sports", Star sports Tamil 
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155873&extension=.m3u8
 #EXTINF:-1 tvg-id="zee.thirai.in" tvg-name="Zee Thirai" tvg-logo="https://watchindia.net/images/channels/tamil/Zee_Thirai.png" group-title="Tamil",Zee Thirai
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2142.ts
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Seeutv HD" tvg-logo="https://i.postimg.cc/CLPkKBmR/image-search-1673943247952.jpg" group-title="Telegram",Seeutv 
