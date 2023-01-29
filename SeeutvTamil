@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Seeutv HD" tvg-logo="https://i.postimg.cc/CLPkKBmR/image-search-1673943247952.jpg" group-title="Telegram",Seeutv 
 https://t.me/seeutv
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="SEEU TAMIL ",Sun TV HD
-https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=1675023149~acl=%2f*~id=9ea98388-46dd-42d9-92c3-26b60fd372fa~data=hdntl~hmac=25a7e080248786171d52435812c1cd33963d76f1492e685b3a4352d9e880891a/master_900.m3u8?aka_me_session_id=AAAAAAAAAAAt09ZjAAAAAIuRJIF6f45GeGc+6Sz9t2GiN3mr+06XHkLDxesRV3csbEqcO1LosXn5sno8UfIQYf8cMDkvFD2G&aka_media_format_type=hls&originpath=/linear/hls/pb/event/oJ-TGgVFSgSMBUoTkauvFQ/stream/6d26a87c-9628-401b-8d44-f0ac1795014c:SIN/variant/1ffe85065dbf58736e33ca847be33b68/bandwidth/1218800.m3u8&hdnea=st=1674936749~exp=1674937049~acl=*~id=9ea98388-46dd-42d9-92c3-26b60fd372fa~hmac=314a61f487ca389deaa9904a24e008a013efdeefb8ba103de604facabfc8a9b5
+https://zee5.yashrajmod.online/playzee.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="" tvg-name="Sun TV HD USA" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="SEEU TAMIL ",Sun TV HD USA
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2089.ts
 #EXTINF:-1 tvg-id="sunlife.in" tvg-name="Sun Life" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Life.png" group-title="SEEU TAMIL ",Sun Life
