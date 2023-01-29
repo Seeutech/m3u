@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Seeutv HD" tvg-logo="https://i.postimg.cc/CLPkKBmR/image-search-1673943247952.jpg" group-title="Telegram",Seeutv 
 https://t.me/seeutv
 #EXTINF:-1 tvg-id="sun.in" tvg-name="Sun TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="SEEU TAMIL ",Sun TV HD
-https://zee5.yashrajmod.online/playzee.php?c=0-9-zeecinemahd
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=945681&extension=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sun TV HD USA" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_TV_HD.png" group-title="SEEU TAMIL ",Sun TV HD USA
 http://watchindia.net:8880/live/dharmend/PTukavDWzh/2089.ts
 #EXTINF:-1 tvg-id="sunlife.in" tvg-name="Sun Life" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Life.png" group-title="SEEU TAMIL ",Sun Life
